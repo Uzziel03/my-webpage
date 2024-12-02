@@ -1,5 +1,5 @@
 const data = {
-    title: "Welcome to CS3210 Template Engine Lab",
+    title: "Welcome to CS3210 Rene Garcia, this is Template Engine Lab",
     content: "This is a simple template engine demonstration.",
     author: "Dr.Red",
 };
